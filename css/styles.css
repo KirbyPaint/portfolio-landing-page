@@ -9,47 +9,32 @@ a:visited {
   color: green;
 }
 
-img {
+.imgFirst img {
   float: left;
-  width: 200px;
-  padding-right: 20px;
-  padding-left: 20px;
+  width: 25%;
+  padding: 10px;
+  margin: 10px;
   border-style: dashed;
-  margin-right: 50px;
   box-sizing: border-box;
 }
 
-/**
-.first img {
-  float: left;
-  width: 200px;
-  padding-right: 20px;
-  padding-left: 20px;
-  border-style: dashed;
-  margin-right: 50px;
-  box-sizing: border-box;
-}
-
-.second img {
+.imgSecond img {
   float: right;
-  width: 200px;
-  padding-right: 20px;
-  padding-left: 20px;
+  width: 25%;
+  padding: 10px;
+  margin: 10px;
   border-style: solid;
-  margin-right: 50px;
   box-sizing: border-box;
 }
 
-.third img {
+.imgThird img {
   float: left;
-  width: 200px;
-  padding-right: 20px;
-  padding-left: 20px;
+  width: 25%;
+  padding: 10px;
+  margin: 10px;
   border-style: double;
-  margin-right: 50px;
   box-sizing: border-box;
 }
-**/
 
 .first li{
   background-color: lightgreen;
