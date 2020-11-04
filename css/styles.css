@@ -1,8 +1,80 @@
 h1 {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  background-color: lightgray;
+  text-align: center;
 }
 
 a:visited {
   color: green;
+}
+
+img {
+  float: left;
+  width: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-style: dashed;
+  margin-right: 50px;
+  box-sizing: border-box;
+}
+
+/**
+.first img {
+  float: left;
+  width: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-style: dashed;
+  margin-right: 50px;
+  box-sizing: border-box;
+}
+
+.second img {
+  float: right;
+  width: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-style: solid;
+  margin-right: 50px;
+  box-sizing: border-box;
+}
+
+.third img {
+  float: left;
+  width: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-style: double;
+  margin-right: 50px;
+  box-sizing: border-box;
+}
+**/
+
+.first li{
+  background-color: lightgreen;
+  font: large;
+}
+
+.first li a:hover {
+  background-color: red;
+}
+
+.first p {
+  background-color: lightgreen;
+  font: large;
+}
+
+.first p a {
+  color: red;
+}
+
+.second p {
+  background-color: lightblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.third p {
+  background-color: lightgoldenrodyellow;
+  font-size: small;
 }
