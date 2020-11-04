@@ -10,7 +10,7 @@ _The purpose of this page is both to demonstrate competency with HTML and CSS st
 
 ## Setup/Installation Requirements
 
-* _View page here: INSERT GITHUB PAGES LINK_
+* _View page here: https://kirbypaint.github.io/portfolio-landing-page/_
 * _Desktop computer with a web browser (recommended Chrome or Firefox)_
 
 ## Known Bugs
