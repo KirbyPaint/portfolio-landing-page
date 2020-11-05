@@ -39,15 +39,18 @@ a:visited {
 .first li{
   background-color: lightgreen;
   font: large;
+  padding: 2px;
 }
 
 .first li a:hover {
   background-color: red;
+  padding: 2px;
 }
 
 .first p {
   background-color: lightgreen;
   font: large;
+  padding: 5px;
 }
 
 .first p a {
@@ -57,9 +60,11 @@ a:visited {
 .second p {
   background-color: lightblue;
   font-family: 'Times New Roman', Times, serif;
+  padding: 5px;
 }
 
 .third p {
   background-color: lightgoldenrodyellow;
   font-size: small;
+  padding: 5px;
 }
